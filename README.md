@@ -4,7 +4,7 @@ Start kit fire stick jailbreak
 
 
 
-Download apps ua-squad.fun or Releases
+Download apps marhau-dev.github.io/fire-stick-start-kit/ or Releases
 
 
 how to download via Downloader ( fire stick )
