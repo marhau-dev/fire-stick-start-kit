@@ -13,6 +13,6 @@ how to download via Downloader ( fire stick )
 
  2 open page browser 
 
- 3 paste the link into the input field ( link ua-squad.fun) 
+ 3 paste the link into the input field ( link marhau-dev.github.io/fire-stick-start-kit) 
 
  
